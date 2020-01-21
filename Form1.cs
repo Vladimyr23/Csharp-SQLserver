@@ -27,6 +27,7 @@ namespace Csharp_SQLserver
             cnn.Open();
             MessageBox.Show("Connection Open  !");
             cnn.Close();
+            //changes
         }
     }
 }
